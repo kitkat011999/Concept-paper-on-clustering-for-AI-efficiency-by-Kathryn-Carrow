@@ -88,3 +88,6 @@ This method could reduce system load, improve responsiveness, and expand the pot
   - Result: AI keeps its reasoning clear (dog → cat → bird).  
 
 💡 *Don’t let AI chase every rabbit. Keep it in a clean yard with three fences.*  
+## License Notice
+⚠️ **This project is © 2025 Kathryn Carrow. All rights reserved.**  
+Use, copying, modification, or distribution of this work requires **explicit written permission** from the author.
